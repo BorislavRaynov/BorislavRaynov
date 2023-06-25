@@ -2,7 +2,7 @@
 
 ## I'm ***Python Web Developer***
 
-<img align="right" width=120px height=110px alt="side_sticker" src="https://media3.giphy.com/media/h1QmJxwoCr19BtTkGt/giphy.gif?cid=ecf05e4710cg633fs0mh27el00j7rj501dn6sa1natl3vfpz&ep=v1_stickers_search&rid=giphy.gif&ct=s" />
+<img align="right" width=220px height=210px alt="side_sticker" src="https://media3.giphy.com/media/h1QmJxwoCr19BtTkGt/giphy.gif?cid=ecf05e4710cg633fs0mh27el00j7rj501dn6sa1natl3vfpz&ep=v1_stickers_search&rid=giphy.gif&ct=s" />
 
 
 
