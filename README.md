@@ -8,7 +8,3 @@
 
 ### Here are some of my skills:
 [![My Skills](https://skillicons.dev/icons?i=py,django,postgres,docker,sqlite,vscode,js,css,html,postman&theme=dark)](https://github.com/BorislavRaynov)
-
-
-### Find me on:
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](<a href="https://www.flaticon.com/free-icons/facebook" title="facebook icons">Facebook icons created by Ruslan Babkin - Flaticon</a>)
