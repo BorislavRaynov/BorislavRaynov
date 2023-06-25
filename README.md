@@ -9,5 +9,6 @@
 ### Here are some of my skills:
 [![My Skills](https://skillicons.dev/icons?i=py,django,postgres,docker,sqlite,vscode,js,css,html,postman&theme=dark)](https://github.com/BorislavRaynov)
 
-
+---
 [![python](https://github.com/devicons/devicon/blob/v2.14.0/icons/python/python-original.svg)
+---
