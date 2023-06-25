@@ -19,6 +19,14 @@
 
 ### Connect with me:
 
+
+
+<summary>:zap: GitHub Stats</summary>
+
+<div>
+  <img height="160" align="left" alt="Diyan's GitHub Stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=BorislavRaynov&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+  <img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=BorislavRaynov&layout=compact&bg_color=09131B&hide_border=true" />
+</div>
 [<img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/linkedin/linkedin-original.svg" width="26px" style="padding-right:50px">](https://www.linkedin.com/in/borislav-raynov-512b13248/)
 [<img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/facebook/facebook-plain.svg" alt="facebook" width="26px">](https://www.facebook.com/borislav.raynov.9/)
 
