@@ -2,7 +2,6 @@
 
 ## I'm ***Python Web Developer***
 
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/Mv1QDJzeB9eaDHzvvf" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/raz-razvan-razvanflore-Mv1QDJzeB9eaDHzvvf">via GIPHY</a></p>
 
 - 🔭 I’m constatly working on gaining knowledges.
 - 🌱 I’m currently learning for Python Web Developer
