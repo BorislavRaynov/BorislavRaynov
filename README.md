@@ -1,7 +1,8 @@
 ## Hi there, I'm *Borislav Raynov* 👋
 ### I'm ***Python Web Developer***
 
-<iframe src="https://giphy.com/embed/doXBzUFJRxpaUbuaqz" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/motion-graphics-animated-gif-mograph-doXBzUFJRxpaUbuaqz">via GIPHY</a></p>
+
+[<img align="right" width=120px height=110px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />](https://media3.giphy.com/media/U4FkC2VqpeNRHjTDQ5/giphy.gif?cid=ecf05e474ul1iysjn77sesl4dcl6m2vazqqx26q7z1zibwc8&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
 - 🔭 I’m constatly working on gaining knowledges.
 - 🌱 I’m currently learning for Python Web Developer
