@@ -5,12 +5,13 @@
 <img align="right" width=220px height=220px alt="side_sticker" src="https://media3.giphy.com/media/h1QmJxwoCr19BtTkGt/giphy.gif" />
 <br />
 <br />
-
 - 🔭 I’m constatly working on gaining knowledges.
 - 🌱 I’m currently learning for Python Web Developer
 - ⚡ Fun fact: I love to read about new technolgies, financе, investments, global markets, trends.
-
-
+<br />
+<br />
+<br />
+<br />
 ---
 
 ### Connect with me:
