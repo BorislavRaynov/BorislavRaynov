@@ -2,8 +2,6 @@
 ### I'm ***Python Web Developer***
 
 
-<img align="right" width=120px height=110px alt="side_sticker" src="giphy.com/gifs/QaMhVZVwOvDiw" />
-
 - 🔭 I’m constatly working on gaining knowledges.
 - 🌱 I’m currently learning for Python Web Developer
 - ⚡ Fun fact: I love to read about new technolgies, financе, investments, markets, trends.
