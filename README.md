@@ -2,7 +2,7 @@
 
 ## I'm ***Python Web Developer***
 
-<img align="right" width=220px height=220px alt="side_sticker" src="https://media3.giphy.com/media/h1QmJxwoCr19BtTkGt/giphy.gif" />
+<img align="right" width=120px height=120px alt="side_sticker" src="https://media3.giphy.com/media/h1QmJxwoCr19BtTkGt/giphy.gif" />
 <br />
 
 - 🔭 I’m constatly working on gaining knowledges.
