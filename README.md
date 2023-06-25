@@ -10,9 +10,6 @@
 - ⚡ Fun fact: I love to read about new technolgies, financе, investments, global markets, trends.
 
 <br />
-<br />
-<br />
-<br />
 
 ---
 
