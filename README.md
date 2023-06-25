@@ -1,8 +1,8 @@
 ## Hi there, I'm *Borislav Raynov* 👋
 ### I'm ***Python Web Developer***
 
-giphy.com/gifs/QaMhVZVwOvDiw
-<img align="right" width=120px height=110px alt="side_sticker" src="https://media3.giphy.com/media/U4FkC2VqpeNRHjTDQ5/giphy.gif" />
+
+<img align="right" width=120px height=110px alt="side_sticker" src="giphy.com/gifs/QaMhVZVwOvDiw" />
 
 - 🔭 I’m constatly working on gaining knowledges.
 - 🌱 I’m currently learning for Python Web Developer
