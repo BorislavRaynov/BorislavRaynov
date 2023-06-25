@@ -11,9 +11,5 @@
 - ⚡ Fun fact: I love to read about new technolgies, financе, investments, global markets, trends.
 
 
-
-
----
-
 ### Here are some of my skills:
 [![My Skills](https://skillicons.dev/icons?i=py,django,postgres,docker,sqlite,vscode,js,css,html,postman&theme=dark)](https://github.com/BorislavRaynov)
