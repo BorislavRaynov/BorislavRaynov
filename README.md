@@ -9,8 +9,6 @@
 - 🌱 I’m currently learning for Python Web Developer
 - ⚡ Fun fact: I love to read about new technolgies, financе, investments, global markets, trends.
 
-<br />
-
 ---
 
 ### Connect with me:
