@@ -1,5 +1,5 @@
-## Hi there, I'm *Borislav Raynov* 👋
-### I'm ***Python Web Developer***
+# Hi there, I'm *Borislav Raynov* 👋
+## I'm ***Python Web Developer***
 
 
 - 🔭 I’m constatly working on gaining knowledges.
