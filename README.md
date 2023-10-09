@@ -32,6 +32,7 @@
 <img align="left" alt="PostgreSQL" width="30px" src="https://cdn2.icon-icons.com/icons2/2415/PNG/512/postgresql_plain_logo_icon_146389.png" style="padding-right:10px;" />
 <img align="left" alt="Postman" width="30px" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/postman_alt_macos_bigsur_icon_189814.png" style="padding-right:10px;" />
 <img align="left" alt="Terraform" width="30px" src="https://cdn2.icon-icons.com/icons2/2107/PNG/512/file_type_terraform_icon_130125.png" style="padding-right:10px;" />
+<img align="left" alt="Git" width="30px" src="https://cdn2.icon-icons.com/icons2/2157/PNG/512/github_git_hub_logo_icon_132878.png" />
 
 <br />
 <br />
