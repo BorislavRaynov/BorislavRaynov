@@ -29,7 +29,7 @@
 <img align="left" alt="CSS3" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Visual Studio Code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="PostgreSQL" width="30px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/postgresql/postgresql-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Docker" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Docker" width="30px" src="https://cdn2.icon-icons.com/icons2/2415/PNG/512/postgresql_plain_logo_icon_146389.png" style="padding-right:10px;" />
 <img align="left" alt="Postman" width="30px" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/postman_alt_macos_bigsur_icon_189814.png" style="padding-right:10px;" />
 <img align="left" alt="Postman" width="30px" src="https://cdn2.icon-icons.com/icons2/2107/PNG/512/file_type_terraform_icon_130125.png" style="padding-right:10px;" />
 
