@@ -6,7 +6,7 @@
 <br />
 
 - 🔭 I’m constantly working on obtaining knowledge.
-- 🌱 I’m currently learning for Python Full-Stack Developer
+- 🌱 I’m currently learning for Full-Stack Developer
 - ⚡ Fun fact: I love to read about new technolgies, financе, investments, global markets, trends.
 
 ---
