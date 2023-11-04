@@ -32,7 +32,8 @@
 <img align="left" alt="PostgreSQL" width="30px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/postgresql/postgresql-original-wordmark.svg" style="padding-right:10px;" />
 <img align="left" alt="Postman" width="30px" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/postman_alt_macos_bigsur_icon_189814.png" style="padding-right:10px;" />
 <img align="left" alt="Terraform" width="30px" src="https://cdn2.icon-icons.com/icons2/2107/PNG/512/file_type_terraform_icon_130125.png" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="30px" src="https://www.pngwing.com/en/free-png-ahwce" />
+<img align="left" alt="GitHub" width="30px" src="![image](https://github.com/BorislavRaynov/BorislavRaynov/assets/106381177/7fd42748-588f-4770-bf87-768b9b04ca98)
+" />
 
 <br />
 <br />
