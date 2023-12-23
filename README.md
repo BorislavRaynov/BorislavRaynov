@@ -1,12 +1,11 @@
 # Hi there, I'm *Borislav Raynov* 👋
 
-## I'm ***Python Web Developer***
+## I'm ***Python Full-Stack Developer***
 
 <img align="right" width=120px height=120px alt="side_sticker" src="https://media3.giphy.com/media/h1QmJxwoCr19BtTkGt/giphy.gif" />
 <br />
 
 - 🔭 I’m constantly working on obtaining knowledge.
-- 🌱 I’m currently learning for Full-Stack Developer
 - ⚡ Fun fact: I love to read about new technolgies, financе, investments, global markets, trends.
 
 ---
