@@ -13,7 +13,6 @@
 
 ### Connect with me:
 [<img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/linkedin/linkedin-original.svg" width="26px" style="padding-right:50px">](https://www.linkedin.com/in/borislav-raynov-512b13248/)
-[<img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/facebook/facebook-plain.svg" alt="facebook" width="26px">](https://www.facebook.com/borislav.raynov.9/)
 
 
 ---
