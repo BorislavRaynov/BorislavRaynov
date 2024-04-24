@@ -6,7 +6,7 @@
 <br />
 
 - 🔭 I’m constantly working on obtaining knowledge.
-- ⚡ Fun fact: I love to read about new technolgies, financе, investments, global markets, trends.
+- ⚡ Fun fact: I am passionate about new technolgies, innovation and problem-solving.
 - 🔭 Currently taking advanced courses in ReactJS.
 
 ---
