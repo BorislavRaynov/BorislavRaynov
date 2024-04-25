@@ -35,6 +35,7 @@
 <img align="left" alt="Azure" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Grafana" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Prometheus" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" style="padding-right:10px;" />
+<img align="left" alt="nginx" width="30px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/nginx/nginx-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Github-desktop-logo-symbol.svg" style="padding-right:10px;" />
 
 <br />
