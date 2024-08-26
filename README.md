@@ -7,7 +7,6 @@
 
 - 🔭 I’m constantly working on obtaining knowledge.
 - ⚡ Fun fact: I am passionate about new technolgies, innovation and problem-solving.
-- 🔭 Currently taking advanced courses in ReactJS.
 
 ---
 
