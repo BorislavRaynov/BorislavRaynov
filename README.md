@@ -1,6 +1,6 @@
 # Hi there, I'm *Borislav Raynov* 👋
 
-##*** DevOps Engineer | Python Full-Stack Developer | Azure | Terraform CAF | Kubernetes | GitOps | CI/CD ***
+## *** DevOps Engineer | Python Full-Stack Developer | Azure | Terraform CAF | Kubernetes | GitOps | CI/CD ***
 
 <img align="right" width=120px height=120px alt="side_sticker" src="https://media3.giphy.com/media/h1QmJxwoCr19BtTkGt/giphy.gif" />
 <br />
