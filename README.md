@@ -7,10 +7,10 @@
 
 I'm a passionate DevOps engineer focused on building scalable, automated, and secure infrastructure in the cloud. I specialize in:
 
-☁️ Azure Infrastructure-as-Code using Terraform with CAF (Cloud Adoption Framework)
-🔄 Designing end-to-end CI/CD pipelines using GitHub Actions
-📦 Deploying and managing workloads in Kubernetes
-⚙️ GitOps-first approach with Argo CD, driving app delivery from GitHub
+- ☁️ Azure Infrastructure-as-Code using Terraform with CAF (Cloud Adoption Framework)
+- 🔄 Designing end-to-end CI/CD pipelines using GitHub Actions
+- 📦 Deploying and managing workloads in Kubernetes
+- ⚙️ GitOps-first approach with Argo CD, driving app delivery from GitHub
 
 ### <img align="left" alt="html tag image" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25" style="margin-right: 5px;"> &nbsp; Technologies and Tools:
 
