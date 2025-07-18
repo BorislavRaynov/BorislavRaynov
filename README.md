@@ -1,23 +1,18 @@
 # Hi there, I'm *Borislav Raynov* 👋
 
-## I'm ***Python Full-Stack Developer***
+## I'm *** DevOps Engineer | Azure | Terraform CAF | Kubernetes | GitOps | CI/CD***
 
 <img align="right" width=120px height=120px alt="side_sticker" src="https://media3.giphy.com/media/h1QmJxwoCr19BtTkGt/giphy.gif" />
 <br />
 
-- 🔭 I’m constantly working on obtaining knowledge.
-- ⚡ Fun fact: I am passionate about new technolgies, innovation and problem-solving.
+I'm a passionate DevOps engineer focused on building scalable, automated, and secure infrastructure in the cloud. I specialize in:
 
----
+☁️ Azure Infrastructure-as-Code using Terraform with CAF (Cloud Adoption Framework)
+🔄 Designing end-to-end CI/CD pipelines using GitHub Actions
+📦 Deploying and managing workloads in Kubernetes
+⚙️ GitOps-first approach with Argo CD, driving app delivery from GitHub
 
-
-### Connect with me:
-[<img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/linkedin/linkedin-original.svg" width="26px" style="padding-right:50px">](https://www.linkedin.com/in/borislav-raynov-512b13248/)
-
-
----
-
-### <img align="left" alt="html tag image" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25" style="margin-right: 5px;"> &nbsp; Languages and Tools that I'm capable of:
+### <img align="left" alt="html tag image" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25" style="margin-right: 5px;"> &nbsp; Technologies and Tools:
 
 <img align="left" alt="Python" width="30px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/python/python-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Django" width="30px" src="https://www.svgrepo.com/show/353657/django-icon.svg" style="padding-right:10px;" />
@@ -41,12 +36,3 @@
 <br />
 
 ---
-
-<br />
-
-<summary>:zap: GitHub Stats</summary>
-
-<div>
-  <img height="160" align="left" alt="Diyan's GitHub Stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=BorislavRaynov&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-  <img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=BorislavRaynov&layout=compact&bg_color=09131B&hide_border=true" />
-</div>
