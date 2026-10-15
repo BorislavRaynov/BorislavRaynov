@@ -20,8 +20,9 @@ I'm a passionate DevOps engineer focused on building scalable, automated, and se
 <img align="left" alt="React" width="30px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/react/react-original-wordmark.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-<img align="left" alt="k8s" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg" style="padding-right:10px;" />
 <img align="left" alt="PostgreSQL" width="30px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/postgresql/postgresql-original-wordmark.svg" style="padding-right:10px;" />
+<img align="left" alt="k8s" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Helm" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/helm/helm-original.svg" style="padding-right:10px;" />
 <img align="left" alt="ArgoCD" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/argocd/argocd-original-wordmark.svg" style="padding-right:10px;" />
 <img align="left" alt="Docker" width="30px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/docker/docker-original-wordmark.svg" style="padding-right:10px;" />
 <img align="left" alt="Terraform" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" style="padding-right:10px;" />
@@ -30,6 +31,8 @@ I'm a passionate DevOps engineer focused on building scalable, automated, and se
 <img align="left" alt="Grafana" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Prometheus" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Github-desktop-logo-symbol.svg" style="padding-right:10px;" />
+<img align="left" alt="ADO" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/azuredevops/azuredevops-plain.svg" style="padding-right:10px;" />
+<img align="left" alt="GitLab" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg" style="padding-right:10px;" />
 
 <br />
 <br />
