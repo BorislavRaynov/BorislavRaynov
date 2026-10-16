@@ -2,7 +2,7 @@
 
 ## *** DevOps Engineer | Python Full-Stack Developer | Azure | Terraform CAF | Kubernetes | GitOps | CI/CD ***
 
-<img align="right" width="120" height="120" alt="side_sticker" src="https://media3.giphy.com/media/h1QmJxwoCr19BtTkGt/giphy.gif" />
+<img align="right" width="160" alt="side_sticker" src="https://media3.giphy.com/media/h1QmJxwoCr19BtTkGt/giphy.gif" />
 
 I'm a passionate DevOps engineer focused on building scalable, automated, and secure infrastructure in the cloud. I specialize in:
 
@@ -31,11 +31,11 @@ I'm a passionate DevOps engineer focused on building scalable, automated, and se
 </p>
 
 <p align="left">
-  <img alt="AWS" title="AWS" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />&nbsp;&nbsp;
+  <img alt="AWS" title="AWS" width="36" src="https://skillicons.dev/icons?i=aws" />&nbsp;&nbsp;
   <img alt="Azure" title="Azure" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />&nbsp;&nbsp;
   <img alt="Grafana" title="Grafana" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" />&nbsp;&nbsp;
   <img alt="Prometheus" title="Prometheus" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" />&nbsp;&nbsp;
-  <img alt="GitHub" title="GitHub" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />&nbsp;&nbsp;
+  <img alt="GitHub" title="GitHub" width="36" src="https://skillicons.dev/icons?i=github" />&nbsp;&nbsp;
   <img alt="Azure DevOps" title="Azure DevOps" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuredevops/azuredevops-original.svg" />&nbsp;&nbsp;
   <img alt="GitLab" title="GitLab" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" />
 </p>
