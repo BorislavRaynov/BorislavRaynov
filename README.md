@@ -2,8 +2,7 @@
 
 ## *** DevOps Engineer | Python Full-Stack Developer | Azure | Terraform CAF | Kubernetes | GitOps | CI/CD ***
 
-<img align="right" width=120px height=120px alt="side_sticker" src="https://media3.giphy.com/media/h1QmJxwoCr19BtTkGt/giphy.gif" />
-<br />
+<img align="right" width="120" height="120" alt="side_sticker" src="https://media3.giphy.com/media/h1QmJxwoCr19BtTkGt/giphy.gif" />
 
 I'm a passionate DevOps engineer focused on building scalable, automated, and secure infrastructure in the cloud. I specialize in:
 
@@ -12,33 +11,33 @@ I'm a passionate DevOps engineer focused on building scalable, automated, and se
 - 📦 Deploying and managing workloads in Kubernetes
 - ⚙️ GitOps-first approach with Argo CD, driving app delivery from GitHub
 
-### <img align="left" alt="html tag image" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25" style="margin-right: 5px;"> &nbsp; Technologies and Tools:
+<br clear="both" />
 
-<img align="left" alt="Python" width="30px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/python/python-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Django" width="30px" src="https://www.svgrepo.com/show/353657/django-icon.svg" style="padding-right:10px;" />
-<img align="left" alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="React" width="30px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/react/react-original-wordmark.svg" style="padding-right:10px;" />
-<img align="left" alt="HTML5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img align="left" alt="CSS3" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-<img align="left" alt="PostgreSQL" width="30px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/postgresql/postgresql-original-wordmark.svg" style="padding-right:10px;" />
-<img align="left" alt="k8s" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Helm" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/helm/helm-original.svg" style="padding-right:10px;" />
-<img align="left" alt="ArgoCD" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/argocd/argocd-original-wordmark.svg" style="padding-right:10px;" />
-<img align="left" alt="Docker" width="30px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/docker/docker-original-wordmark.svg" style="padding-right:10px;" />
-<img align="left" alt="Terraform" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" style="padding-right:10px;" />
-<img align="left" alt="AWS" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" style="padding-right:10px;" />
-<img align="left" alt="Azure" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Grafana" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Prometheus" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" style="padding-right:10px;" />
-<br />
+### <img alt="code icon" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25" /> Technologies and Tools:
 
-<p align="center">
-  <img alt="GitHub" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Github-desktop-logo-symbol.svg" style="padding-right:10px;" />
-  <img alt="ADO" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/azuredevops/azuredevops-plain.svg" style="padding-right:10px;" />
-  <img alt="GitLab" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg" style="padding-right:10px;" />
+<p align="left">
+  <img alt="Python" title="Python" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />&nbsp;&nbsp;
+  <img alt="Django" title="Django" width="36" src="https://www.svgrepo.com/show/353657/django-icon.svg" />&nbsp;&nbsp;
+  <img alt="JavaScript" title="JavaScript" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />&nbsp;&nbsp;
+  <img alt="React" title="React" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />&nbsp;&nbsp;
+  <img alt="HTML5" title="HTML5" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />&nbsp;&nbsp;
+  <img alt="CSS3" title="CSS3" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />&nbsp;&nbsp;
+  <img alt="PostgreSQL" title="PostgreSQL" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />&nbsp;&nbsp;
+  <img alt="Kubernetes" title="Kubernetes" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" />&nbsp;&nbsp;
+  <img alt="Helm" title="Helm" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/helm/helm-original.svg" />&nbsp;&nbsp;
+  <img alt="Argo CD" title="Argo CD" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" />&nbsp;&nbsp;
+  <img alt="Docker" title="Docker" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />&nbsp;&nbsp;
+  <img alt="Terraform" title="Terraform" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" />
 </p>
 
-<br />
-<br />
+<p align="left">
+  <img alt="AWS" title="AWS" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />&nbsp;&nbsp;
+  <img alt="Azure" title="Azure" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />&nbsp;&nbsp;
+  <img alt="Grafana" title="Grafana" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" />&nbsp;&nbsp;
+  <img alt="Prometheus" title="Prometheus" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" />&nbsp;&nbsp;
+  <img alt="GitHub" title="GitHub" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />&nbsp;&nbsp;
+  <img alt="Azure DevOps" title="Azure DevOps" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuredevops/azuredevops-original.svg" />&nbsp;&nbsp;
+  <img alt="GitLab" title="GitLab" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" />
+</p>
 
 ---
