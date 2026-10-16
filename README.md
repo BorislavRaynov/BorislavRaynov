@@ -30,9 +30,13 @@ I'm a passionate DevOps engineer focused on building scalable, automated, and se
 <img align="left" alt="Azure" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Grafana" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Prometheus" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Github-desktop-logo-symbol.svg" style="padding-right:10px;" />
-<img align="left" alt="ADO" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/azuredevops/azuredevops-plain.svg" style="padding-right:10px;" />
-<img align="left" alt="GitLab" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg" style="padding-right:10px;" />
+<br />
+
+<p align="center">
+  <img align="left" alt="GitHub" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Github-desktop-logo-symbol.svg" style="padding-right:10px;"   />
+  <img align="left" alt="ADO" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/azuredevops/azuredevops-plain.svg" style="padding-right:10px;" />
+  <img align="left" alt="GitLab" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg" style="padding-right:10px;" />
+</p>
 
 <br />
 <br />
